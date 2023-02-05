@@ -116,7 +116,11 @@
             <artifactId>gson</artifactId>
             <version>2.9.0</version>
         </dependency>
-
+        <dependency>
+            <groupId>net.sf.robocode</groupId>
+            <artifactId>robocode.api</artifactId>
+            <version>1.9.4.0</version>
+        </dependency>
     </dependencies>
 
     <build>
